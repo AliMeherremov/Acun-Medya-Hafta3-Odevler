@@ -1,0 +1,14 @@
+C:\Users\meher\source\repos\Hafta3_Odev6\Hafta3_Odev6\bin\Debug\net8.0\Hafta3_Odev6.exe
+C:\Users\meher\source\repos\Hafta3_Odev6\Hafta3_Odev6\bin\Debug\net8.0\Hafta3_Odev6.deps.json
+C:\Users\meher\source\repos\Hafta3_Odev6\Hafta3_Odev6\bin\Debug\net8.0\Hafta3_Odev6.runtimeconfig.json
+C:\Users\meher\source\repos\Hafta3_Odev6\Hafta3_Odev6\bin\Debug\net8.0\Hafta3_Odev6.dll
+C:\Users\meher\source\repos\Hafta3_Odev6\Hafta3_Odev6\bin\Debug\net8.0\Hafta3_Odev6.pdb
+C:\Users\meher\source\repos\Hafta3_Odev6\Hafta3_Odev6\obj\Debug\net8.0\Hafta3_Odev6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meher\source\repos\Hafta3_Odev6\Hafta3_Odev6\obj\Debug\net8.0\Hafta3_Odev6.AssemblyInfoInputs.cache
+C:\Users\meher\source\repos\Hafta3_Odev6\Hafta3_Odev6\obj\Debug\net8.0\Hafta3_Odev6.AssemblyInfo.cs
+C:\Users\meher\source\repos\Hafta3_Odev6\Hafta3_Odev6\obj\Debug\net8.0\Hafta3_Odev6.csproj.CoreCompileInputs.cache
+C:\Users\meher\source\repos\Hafta3_Odev6\Hafta3_Odev6\obj\Debug\net8.0\Hafta3_Odev6.dll
+C:\Users\meher\source\repos\Hafta3_Odev6\Hafta3_Odev6\obj\Debug\net8.0\refint\Hafta3_Odev6.dll
+C:\Users\meher\source\repos\Hafta3_Odev6\Hafta3_Odev6\obj\Debug\net8.0\Hafta3_Odev6.pdb
+C:\Users\meher\source\repos\Hafta3_Odev6\Hafta3_Odev6\obj\Debug\net8.0\Hafta3_Odev6.genruntimeconfig.cache
+C:\Users\meher\source\repos\Hafta3_Odev6\Hafta3_Odev6\obj\Debug\net8.0\ref\Hafta3_Odev6.dll
